@@ -1,0 +1,4 @@
+grep -r -p 'lb' filescan_00.1   filescan_00.2   filescan_00.3   filescan_00.4
+
+grep -l "lb" *
+forest ->filescan_00.1 

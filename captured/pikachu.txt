@@ -1,0 +1,7 @@
+ grep -r -p 'ka' filescan_00.1 filescan_00.2  filescan_00.3   filescan_00.4
+
+
+
+grep -l "ka" *
+forest ->filescan_00.3 
+
