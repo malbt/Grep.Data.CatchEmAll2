@@ -1,5 +1,34 @@
-grep -r -p 'gg' filescan_00.1 filescan_00.2     filescan_00.3   filescan_00.4
-
-
-grep -l "gg" 
-forest -> grep -l "gg" 
+filescan_00.3:jigg   ,..__---------------lypuff
+filescan_00.3:jigg  |  _  `--._                                  _.--"""`.---------------lypuff
+filescan_00.3:jigg  |   |._    `-.        __________         _.-'    ,|' |---------------lypuff
+filescan_00.3:jigg  |   |  `.     `-..--""_.        `""-..,-'      ,' |  |---------------lypuff
+filescan_00.3:jigg  L   |    `.        ,-'                      _,'   |  |---------------lypuff
+filescan_00.3:jigg   .  |     ,'     ,'            .           '.     |  |---------------lypuff
+filescan_00.3:jigg   |  |   ,'      /               \            `.   |  |---------------lypuff
+filescan_00.3:jigg   |  . ,'      ,'                |              \ /  j---------------lypuff
+filescan_00.3:jigg   `   "       ,                  '               `   /---------------lypuff
+filescan_00.3:jigg    `,         |                ,'                  '+---------------lypuff
+filescan_00.3:jigg    /          |             _,'                     `---------------lypuff
+filescan_00.3:jigg   /     .-"""'L          ,-' \  ,-'""""`-.           `---------------lypuff
+filescan_00.3:jigg  j    ,' ,.+--.\        '    ',' ,.,-"--._`.          \---------------lypuff
+filescan_00.3:jigg  |   / .'  L    `.        _.'/ .'  |      \ \          .---------------lypuff
+filescan_00.3:jigg j   | | `--'     |`+-----'  . j`._,'       L |         |---------------lypuff
+filescan_00.3:jigg |   L .          | |        | |            | |         |---------------lypuff
+filescan_00.3:jigg |   `\ \        / j         | |            | |         |---------------lypuff
+filescan_00.3:jigg |     \ `-.._,.- /           . `         .'  '         |---------------lypuff
+filescan_00.3:jigg l      `-..__,.-'             `.`-.....-' _.'          '---------------lypuff
+filescan_00.3:jigg '                               `-.....--'            j---------------lypuff
+filescan_00.3:jigg  .                  -.....                            |---------------lypuff
+filescan_00.3:jigg   L                  `---'                            '---------------lypuff
+filescan_00.3:jigg    \                                                 /---------------lypuff
+filescan_00.3:jigg     ` \                                        ,   ,'---------------lypuff
+filescan_00.3:jigg      `.`.    |                        /      ,'   .---------------lypuff
+filescan_00.3:jigg        . `._,                        |     ,'   .'---------------lypuff
+filescan_00.3:jigg         `.                           `._.-'  ,-'---------------lypuff
+filescan_00.3:jigg    _,-""""`-,                             _,'"-.._---------------lypuff
+filescan_00.3:jigg  ,'          `-.._                     ,-'        `.---------------lypuff
+filescan_00.3:jigg /             _,' `"-..___     _,..--"`.            `.---------------lypuff
+filescan_00.3:jigg|         _,.-'            `"""'         `-._          \---------------lypuff
+filescan_00.3:jigg`-....---'                                   `-.._      |---------------lypuff
+filescan_00.3:jigg                                                  `--...' zcw---------------lypuff
+filescan_00.3:jigg---------------lypuff

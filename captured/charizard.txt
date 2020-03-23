@@ -1,5 +1,41 @@
-grep -r -p 'izard' filescan_00.1 filescan_00.2   filescan_00.3   filescan_00.4
+filescan_00.2:char                 ."-,.__---------------izard
+filescan_00.2:char                 `.     `.  ,---------------izard
+filescan_00.2:char              .--'  .._,'"-' `.---------------izard
+filescan_00.2:char             .    .'         `'---------------izard
+filescan_00.2:char             `.   /          ,'---------------izard
+filescan_00.2:char               `  '--.   ,-"'---------------izard
+filescan_00.2:char                `"`   |  \---------------izard
+filescan_00.2:char                   -. \, |---------------izard
+filescan_00.2:char                    `--Y.'      ___.---------------izard
+filescan_00.2:char                         \     L._, \---------------izard
+filescan_00.2:char               _.,        `.   <  <\                _---------------izard
+filescan_00.2:char             ,' '           `, `.   | \            ( `---------------izard
+filescan_00.2:char          ../, `.            `  |    .\`.           \ \_---------------izard
+filescan_00.2:char         ,' ,..  .           _.,'    ||\l            )  '".---------------izard
+filescan_00.2:char        , ,'   \           ,'.-.`-._,'  |           .  _._`.---------------izard
+filescan_00.2:char      ,' /      \ \        `' ' `--/   | \          / /   ..\---------------izard
+filescan_00.2:char    .'  /        \ .         |\__ - _ ,'` `        / /     `.`.---------------izard
+filescan_00.2:char    |  '          ..         `-...-"  |  `-'      / /        . `.---------------izard
+filescan_00.2:char    | /           |L__           |    |          / /          `. `.---------------izard
+filescan_00.2:char   , /            .   .          |    |         / /             ` `---------------izard
+filescan_00.2:char  / /          ,. ,`._ `-_       |    |  _   ,-' /               ` \---------------izard
+filescan_00.2:char / .           \"`_/. `-_ \_,.  ,'    +-' `-'  _,        ..,-.    \`.---------------izard
+filescan_00.2:char.  '         .-f    ,'   `    '.       \__.---'     _   .'   '     \ \---------------izard
+filescan_00.2:char' /          `.'    l     .' /          \..      ,_|/   `.  ,'`     L`---------------izard
+filescan_00.2:char|'      _.-""` `.    \ _,'  `            \ `.___`.'"`-.  , |   |    | \---------------izard
+filescan_00.2:char||    ,'      `. `.   '       _,...._        `  |    `/ '  |   '     .|---------------izard
+filescan_00.2:char||  ,'          `. ;.,.---' ,'       `.   `.. `-'  .-' /_ .'    ;_   ||---------------izard
+filescan_00.2:char|| '              V      / /           `   | `   ,'   ,' '.    !  `. ||---------------izard
+filescan_00.2:char||/            _,-------7 '              . |  `-'    l         /    `||---------------izard
+filescan_00.2:char. |          ,' .-   ,' ||               | .-.        `.      .'     ||---------------izard
+filescan_00.2:char `'        ,'    `".'    |               |    `.        '. -.'       `'---------------izard
+filescan_00.2:char          /      ,'      |               |,'    \-.._,.'/'---------------izard
+filescan_00.2:char          .     /        .               .       \    .''---------------izard
+filescan_00.2:char        .`.    |         `.             /         :_,'.'---------------izard
+filescan_00.2:char          \ `...\   _     ,'-.        .'         /_.-'---------------izard
+filescan_00.2:char           `-.__ `,  `'   .  _.>----''.  _  __  /---------------izard
+filescan_00.2:char                .'        /"'          |  "'   '_---------------izard
+filescan_00.2:char               /_|.-'\ ,".             '.'`__'-( \---------------izard
+filescan_00.2:char                 / ,"'"\,'               `/  `-.|" zcw---------------izard
+filescan_00.2:char---------------izard
 
-
-grep -l "izard" *
-forest ->filescan_00.2

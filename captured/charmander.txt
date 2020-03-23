@@ -1,5 +1,36 @@
-grep -r -p 'mand' filescan_00.1 filescan_00.2   filescan_00.3   filescan_00.4
-
-
-grep -l "mand" *
-forest -> filescan_00.2
+filescan_00.2:char              _.--""`-..---------------mander
+filescan_00.2:char            ,'          `.---------------mander
+filescan_00.2:char          ,'          __  `.---------------mander
+filescan_00.2:char         /|          " __   \---------------mander
+filescan_00.2:char        , |           / |.   .---------------mander
+filescan_00.2:char        |,'          !_.'|   |---------------mander
+filescan_00.2:char      ,'             '   |   |---------------mander
+filescan_00.2:char     /              |`--'|   |---------------mander
+filescan_00.2:char    |                `---'   |---------------mander
+filescan_00.2:char     .   ,                   |                       ,".---------------mander
+filescan_00.2:char      ._     '           _'  |                    , ' \ `---------------mander
+filescan_00.2:char  `.. `.`-...___,...---""    |       __,.        ,`"   L,|---------------mander
+filescan_00.2:char  |, `- .`._        _,-,.'   .  __.-'-. /        .   ,    \---------------mander
+filescan_00.2:char-:..     `. `-..--_.,.<       `"      / `.        `-/ |   .---------------mander
+filescan_00.2:char  `,         """"'     `.              ,'         |   |  ',,---------------mander
+filescan_00.2:char    `.      '            '            /          '    |'. |/---------------mander
+filescan_00.2:char      `.   |              \       _,-'           |       ''---------------mander
+filescan_00.2:char        `._'               \   '"\                .      |---------------mander
+filescan_00.2:char           |                '     \                `._  ,'---------------mander
+filescan_00.2:char           |                 '     \                 .'|---------------mander
+filescan_00.2:char           |                 .      \                | |---------------mander
+filescan_00.2:char           |                 |       L              ,' |---------------mander
+filescan_00.2:char           `                 |       |             /   '---------------mander
+filescan_00.2:char            \                |       |           ,'   /---------------mander
+filescan_00.2:char          ,' \               |  _.._ ,-..___,..-'    ,'---------------mander
+filescan_00.2:char         /     .             .      `!             ,j'---------------mander
+filescan_00.2:char        /       `.          /        .           .'/---------------mander
+filescan_00.2:char       .          `.       /         |        _.'.'---------------mander
+filescan_00.2:char        `.          7`'---'          |------"'_.'---------------mander
+filescan_00.2:char       _,.`,_     _'                ,''-----"'---------------mander
+filescan_00.2:char   _,-_    '       `.     .'      ,\---------------mander
+filescan_00.2:char   -" /`.         _,'     | _  _  _.|---------------mander
+filescan_00.2:char    ""--'---"""""'        `' '! |! /---------------mander
+filescan_00.2:char                            `" " -' zcw---------------mander
+filescan_00.2:char---------------mander
+filescan_00.2:char---------------mander

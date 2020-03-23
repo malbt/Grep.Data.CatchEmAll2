@@ -1,3 +1,40 @@
-grep -r -p 'rill' filescan_00.1   filescan_00.2   filescan_00.3   filescan_00.4
-
-filescan_00.1
+filescan_00.1:beed                     ,--""+--.---------------rill
+filescan_00.1:beed                    /     j   /`.---------------rill
+filescan_00.1:beed                   |     /   |   `.---------------rill
+filescan_00.1:beed                   |   ,'    '     \---------------rill
+filescan_00.1:beed                   j,-'     '`..    \---------------rill
+filescan_00.1:beed                  +      _ /    `._/ \---------------rill
+filescan_00.1:beed                  |     / '-.     |   .---------------rill
+filescan_00.1:beed                  |    /     |   /    |---------------rill
+filescan_00.1:beed                  |   /     j   j     |---------------rill
+filescan_00.1:beed                  |  j      |   |     |._---------------rill
+filescan_00.1:beed                  | .'     7    |     |  `.---------------rill
+filescan_00.1:beed  ___      _.._   | j      |    +     '    `.---------------rill
+filescan_00.1:beed |.---=-.,'+-. `. |/       F     L  ,'    ,'`.---------------rill
+filescan_00.1:beed ||,==--'|_' |  j  \      /      |,'   ,`'    L---------------rill
+filescan_00.1:beed 'Y'   | |  '/ ',.-.\    j     ,,^  _,' \     |---------------rill
+filescan_00.1:beed`.||   |  `.'  '    `.   / _,-'   `'     L   F---------------rill
+filescan_00.1:beed  ||   `     .  ,-.   `,--'              |   |---------------rill
+filescan_00.1:beed  `'    `.  /_,' ,'     `--------------""""'Y---------------rill
+filescan_00.1:beed         _:"'_.-'       /_>:-.__           /---------------rill
+filescan_00.1:beed      `-".`"'__,`-.,-._/      `.""`------"'---------------rill
+filescan_00.1:beed      `.| `"'      | | _.--'""'--\---------------rill
+filescan_00.1:beed       || /        | '"  ___,.._  \---------------rill
+filescan_00.1:beed      _|||__      / /,.-'       `- .---------------rill
+filescan_00.1:beed    ,'   `. .    /,'/'  _.,-"""--._F---------------rill
+filescan_00.1:beed    7     | |  .',L'|_-'           |---------------rill
+filescan_00.1:beed    +     | | / / ',"'  ,.-'""'`-._|---------------rill
+filescan_00.1:beed     L    ' |. /  .-.`"'           |---------------rill
+filescan_00.1:beed     |   j j   \  `-.'\           j---------------rill
+filescan_00.1:beed     +   | | \  `.   ` `.  _.... ,---------------rill
+filescan_00.1:beed      L  | |  \   .   `  \"     /---------------rill
+filescan_00.1:beed      | ,' |   L  ,'    \ `    .---------------rill
+filescan_00.1:beed      | || |   '  |      L `   |---------------rill
+filescan_00.1:beed      `./|j     `. .     `. \ j---------------rill
+filescan_00.1:beed       |  '       ` .     | '\`---------------rill
+filescan_00.1:beed                   \ '.   | \---------------rill
+filescan_00.1:beed                    | |  /,-'---------------rill
+filescan_00.1:beed                    j l  "---------------rill
+filescan_00.1:beed                  _/_,'---------------rill
+filescan_00.1:beed                 ',' zcw---------------rill
+filescan_00.1:beed---------------rill

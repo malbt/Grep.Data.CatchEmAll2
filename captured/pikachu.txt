@@ -1,7 +1,40 @@
- grep -r -p 'ka' filescan_00.1 filescan_00.2  filescan_00.3   filescan_00.4
-
-
-
-grep -l "ka" *
-forest ->filescan_00.3 
-
+filescan_00.3:pikaquu..__---------------chu
+filescan_00.3:pika $$$b  `---.__---------------chu
+filescan_00.3:pika  "$$b        `--.                          ___.---uuudP---------------chu
+filescan_00.3:pika   `$$b           `.__.------.__     __.---'      $$$$"              .---------------chu
+filescan_00.3:pika     "$b          -'            `-.-'            $$$"              .'|---------------chu
+filescan_00.3:pika       ".                                       d$"             _.'  |---------------chu
+filescan_00.3:pika         `.   /                              ..."             .'     |---------------chu
+filescan_00.3:pika           `./                           ..::-'            _.'       |---------------chu
+filescan_00.3:pika            /                         .:::-'            .-'         .'---------------chu
+filescan_00.3:pika           :                          ::''\          _.'            |---------------chu
+filescan_00.3:pika          .' .-.             .-.           `.      .'               |---------------chu
+filescan_00.3:pika          : /'$$|           .@"$\           `.   .'              _.-'---------------chu
+filescan_00.3:pika         .'|$u$$|          |$$,$$|           |  <            _.-'---------------chu
+filescan_00.3:pika         | `:$$:'          :$$$$$:           `.  `.       .-'---------------chu
+filescan_00.3:pika         :                  `"--'             |    `-.     \---------------chu
+filescan_00.3:pika        :##.       ==             .###.       `.      `.    `\---------------chu
+filescan_00.3:pika        |##:                      :###:        |        >     >---------------chu
+filescan_00.3:pika        |#'     `..'`..'          `###'        x:      /     /---------------chu
+filescan_00.3:pika         \                                   xXX|     /    ./---------------chu
+filescan_00.3:pika          \                                xXXX'|    /   ./---------------chu
+filescan_00.3:pika          /`-.                                  `.  /   /---------------chu
+filescan_00.3:pika         :    `-  ...........,                   | /  .'---------------chu
+filescan_00.3:pika         |         ``:::::::'       .            |<    `.---------------chu
+filescan_00.3:pika         |             ```          |           x| \ `.:``.---------------chu
+filescan_00.3:pika         |                         .'    /'   xXX|  `:`M`M':.---------------chu
+filescan_00.3:pika         |    |                    ;    /:' xXXX'|  -'MMMMM:'---------------chu
+filescan_00.3:pika         `.  .'                   :    /:'       |-'MMMM.-'---------------chu
+filescan_00.3:pika          |  |                   .'   /'        .'MMM.-'---------------chu
+filescan_00.3:pika          `'`'                   :  ,'          |MMM<---------------chu
+filescan_00.3:pika            |                     `'            |tbap\---------------chu
+filescan_00.3:pika             \                                  :MM.-'---------------chu
+filescan_00.3:pika              \                 |              .''---------------chu
+filescan_00.3:pika               \.               `.            /---------------chu
+filescan_00.3:pika                /     .:::::::.. :           /---------------chu
+filescan_00.3:pika               |     .:::::::::::`.         /---------------chu
+filescan_00.3:pika               |   .:::------------\       /---------------chu
+filescan_00.3:pika              /   .''               >::'  /---------------chu
+filescan_00.3:pika              `',:                 :    .'---------------chu
+filescan_00.3:pika                                   `:.:'---------------chu
+filescan_00.3:pika---------------chu

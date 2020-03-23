@@ -1,4 +1,72 @@
-grep -r -p 'rt' filescan_00.1 filescan_00.2   filescan_00.3     filescan_00.4
+filescan_00.4:squi               _,........__---------------rtle
+filescan_00.4:wart     __                                _.--'"7---------------ortle
+filescan_00.4:squi            ,-'            "`-.---------------rtle
+filescan_00.4:wart    `. `--._                        ,-'_,-  ,'---------------ortle
+filescan_00.4:squi          ,'                   `-.---------------rtle
+filescan_00.4:wart     ,'  `-.`-.                   /' .'    ,|---------------ortle
+filescan_00.4:squi        ,'                        \---------------rtle
+filescan_00.4:wart     `.     `. `-     __...___   /  /     - j---------------ortle
+filescan_00.4:squi      ,'                           .---------------rtle
+filescan_00.4:wart       `.     `  `.-""        " .  /       /---------------ortle
+filescan_00.4:squi      .'\               ,"".       `---------------rtle
+filescan_00.4:wart         \     /                ` /       /---------------ortle
+filescan_00.4:squi     ._.'|             / |  `       \---------------rtle
+filescan_00.4:wart          \   /                         ,'---------------ortle
+filescan_00.4:squi     |   |            `-.'  ||       `.---------------rtle
+filescan_00.4:wart          '._'_               ,-'       |---------------ortle
+filescan_00.4:squi     |   |            '-._,'||       | \---------------rtle
+filescan_00.4:wart             | \            ,|  |   ...-'---------------ortle
+filescan_00.4:squi     .`.,'             `..,'.'       , |`-.---------------rtle
+filescan_00.4:wart             || `         ,|_|  |   | `             _..__---------------ortle
+filescan_00.4:squi     l                       .'`.  _/  |   `.---------------rtle
+filescan_00.4:wart            /|| |          | |  |   |  \  _,_    .-"     `-.---------------ortle
+filescan_00.4:squi     `-.._'-   ,          _ _'   -" \  .     `---------------rtle
+filescan_00.4:wart           | '.-'          |_|_,' __!  | /|  |  /           \---------------ortle
+filescan_00.4:squi`."""""'-.`-...,---------','         `. `....__.---------------rtle
+filescan_00.4:wart   ,-...___ .=                  ._..'  /`.| ,`,.      _,.._ |---------------ortle
+filescan_00.4:squi.'        `"-..___      __,'\          \  \     \---------------rtle
+filescan_00.4:wart  |   |,.. \     '  `'        ____,  ,' `--','  |    /      |---------------ortle
+filescan_00.4:squi\_ .          |   `""""'    `.           . \     \---------------rtle
+filescan_00.4:wart ,`-..'  _)  .`-..___,---'_...._/  .'      '-...'   |      /---------------ortle
+filescan_00.4:squi  `.          |              `.          |  .     L---------------rtle
+filescan_00.4:wart'.__' ""'      `.,------'"'      ,/            ,     `.._.' `.---------------ortle
+filescan_00.4:squi    `.        |`--...________.'.        j   |     |---------------rtle
+filescan_00.4:wart  `.             | `--........,-'.            .         \     \---------------ortle
+filescan_00.4:squi      `._    .'      |          `.     .|   ,     |---------------rtle
+filescan_00.4:wart    `-.          .   '.,--""     |           ,'\        |      .---------------ortle
+filescan_00.4:squi         `--,\       .            `7""' |  ,      |---------------rtle
+filescan_00.4:wart       `.       /     |          L          ,\  .       |  .,---.---------------ortle
+filescan_00.4:squi            ` `      `            /     |  |      |    _,-'"""`-.---------------rtle
+filescan_00.4:wart         `._   '      |           \        /  .  L      | /   __ `.---------------ortle
+filescan_00.4:squi             \ `.     .          /      |  '      |  ,'          `.---------------rtle
+filescan_00.4:wart            `-.       |            `._   ,    l   .    j |   '  `. .---------------ortle
+filescan_00.4:squi              \  v.__  .        '       .   \    /| /              \---------------rtle
+filescan_00.4:wart              |       |               `"' |  .    |   /  '      .' |---------------ortle
+filescan_00.4:squi               \/    `""\"""""""`.       \   \  /.''                |---------------rtle
+filescan_00.4:wart              |       |                   j  |    |  /  , `.__,'   |---------------ortle
+filescan_00.4:squi                `        .        `._ ___,j.  `/ .-       ,---.     |---------------rtle
+filescan_00.4:wart              `.      L                 _.   `    j ,'-'           |---------------ortle
+filescan_00.4:squi                ,`-.      \         ."     `.  |/        j     `    |---------------rtle
+filescan_00.4:wart               |`"---..\._______,...,--' |   |   /|'      /        j---------------ortle
+filescan_00.4:squi               /    `.     \       /         \ /         |     /    j---------------rtle
+filescan_00.4:wart               '       |                 |   .  / |      '        /---------------ortle
+filescan_00.4:squi              |       `-.   7-.._ .          |"          '         /---------------rtle
+filescan_00.4:wart                .      .              ____L   \'  j    -',       /---------------ortle
+filescan_00.4:squi              |          `./_    `|          |            .     _,'---------------rtle
+filescan_00.4:wart               / `.     .          _,"     \   | /  ,-','      ,'---------------ortle
+filescan_00.4:squi              `.           / `----|          |-............`---'---------------rtle
+filescan_00.4:wart              /    `.  ,'`-._     /         \  i'.,'_,'      .'---------------ortle
+filescan_00.4:squi                \          \      |          |---------------rtle
+filescan_00.4:wart             .       `.      `-..'             |_,-'      _.'---------------ortle
+filescan_00.4:squi               ,'           )     `.         |---------------rtle
+filescan_00.4:wart             |         `._      |            ''/      _,-'---------------ortle
+filescan_00.4:squi                7____,,..--'      /          |---------------rtle
+filescan_00.4:wart             |            '-..._\             `__,.--'---------------ortle
+filescan_00.4:squi                                  `---.__,--.'zcw---------------rtle
+filescan_00.4:wart            ,'           ,' `-.._`.            .---------------ortle
+filescan_00.4:squi---------------rtle
+filescan_00.4:wart           `.    __      |       "'`.          |---------------ortle
+filescan_00.4:wart             `-"'  `""""'            7         `.---------------ortle
+filescan_00.4:wart                                    `---'--.,'"`' zcw---------------ortle
+filescan_00.4:wart---------------ortle
 
-grep -l "rt" * 
-forest-> filescan_00.4

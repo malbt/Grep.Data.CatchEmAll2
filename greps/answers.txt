@@ -1,14 +1,44 @@
 # Part 1
-### a) done under captures directory
+### a) grep statement to catch each pokemon  [pokemon name].txt
+beedrill.txt grep -r -p 'rill' filescan_00.1   filescan_00.2   filescan_00.3   filescan_00.4
+blastoise.txt rep -r -p 'to' filescan_00.1   filescan_00.2   filescan_00.3   filescan_00.4
+bulbasaur.txt grep -r -p 'lb' filescan_00.1   filescan_00.2   filescan_00.3   filescan_00.4
+butterfree.txt grep -r -p 'tt' filescan_00.1   filescan_00.2   filescan_00.3   filescan_00.4
+charizard .txt grep -r -p 'izard' filescan_00.1 filescan_00.2   filescan_00.3   filescan_00.4
+charmander .txt grep -r -p 'mand' filescan_00.1 filescan_00.2   filescan_00.3   filescan_00.4
+charmeleon .txt grep -r -p 'mel' filescan_00.1 filescan_00.2    filescan_00.3   filescan_00.4
+ivysaur.txt grep -r -p 'iv' filescan_00.1 filescan_00.2     filescan_00.3   filescan_00.4
+jigglypuff.txt rep -r -p 'gg' filescan_00.1 filescan_00.2     filescan_00.3   filescan_00.4
+meowth.txt grep -r -p 'ow' filescan_00.1 filescan_00.2     filescan_00.3   filescan_00.4
+pikachu.txt grep -r -p 'ka' filescan_00.1 filescan_00.2  filescan_00.3   filescan_00.4
+psyduck.txt grep -r -p 'psy' filescan_00.1 filescan_00.2     filescan_00.3   filescan_00.4
+squirtle.txt grep -r -p 'squ' filescan_00.1 filescan_00.2   filescan_00.3. filescan_00.4
+venusaur.txt grep -r -p 'nu' filescan_00.1 filescan_00.2   filescan_00.3     filescan_00.4
+wartortle.txt rep -r -p 'rt' filescan_00.1 filescan_00.2   filescan_00.3     filescan_00.4 
 
 
 
 
-### b)
+### b) Done
 
 
 
-### c) inside  the captured dir 
+### c) name - number of lines -forest name statement used [ grep -l " --- " *]
+ beedrill- 40- forest -> filescan_00.1
+blastoise 38 -> forest ->  filescan_00.1
+bulbasaur 30 -> forest ->filescan_00.1 
+butterfree   38 -> foreat-> filescan_00.1
+charizard  40-> forest ->filescan_00.2
+charmander 36-> forest -> filescan_00.2
+charmeleon 37-->forest -> filescan_00.2
+ivysaur 33 ->forest ->filescan_00.3
+jigglypuff  34->foresr -> filescan_00.3
+meowth 33 ->forest ->filescan_00.3
+pikachu   40 ->forest ->filescan_00.3
+psyduck 37->forest -> filescan_00.4
+squirtle 34 ->forest -> filescan_00.4
+venusaur 32->forest -> filescan_00.4
+wartortle 37 ->forest-> filescan_00.4
 
 
 

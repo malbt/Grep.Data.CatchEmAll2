@@ -1,5 +1,35 @@
-grep -r -p 'squ' filescan_00.1 filescan_00.2   filescan_00.3. filescan_00.4
-
-
-grep -l "squ" *
-forest -> filescan_00.4
+grep: filescan_00.3.: No such file or directory
+filescan_00.4:squi               _,........__---------------rtle
+filescan_00.4:squi            ,-'            "`-.---------------rtle
+filescan_00.4:squi          ,'                   `-.---------------rtle
+filescan_00.4:squi        ,'                        \---------------rtle
+filescan_00.4:squi      ,'                           .---------------rtle
+filescan_00.4:squi      .'\               ,"".       `---------------rtle
+filescan_00.4:squi     ._.'|             / |  `       \---------------rtle
+filescan_00.4:squi     |   |            `-.'  ||       `.---------------rtle
+filescan_00.4:squi     |   |            '-._,'||       | \---------------rtle
+filescan_00.4:squi     .`.,'             `..,'.'       , |`-.---------------rtle
+filescan_00.4:squi     l                       .'`.  _/  |   `.---------------rtle
+filescan_00.4:squi     `-.._'-   ,          _ _'   -" \  .     `---------------rtle
+filescan_00.4:squi`."""""'-.`-...,---------','         `. `....__.---------------rtle
+filescan_00.4:squi.'        `"-..___      __,'\          \  \     \---------------rtle
+filescan_00.4:squi\_ .          |   `""""'    `.           . \     \---------------rtle
+filescan_00.4:squi  `.          |              `.          |  .     L---------------rtle
+filescan_00.4:squi    `.        |`--...________.'.        j   |     |---------------rtle
+filescan_00.4:squi      `._    .'      |          `.     .|   ,     |---------------rtle
+filescan_00.4:squi         `--,\       .            `7""' |  ,      |---------------rtle
+filescan_00.4:squi            ` `      `            /     |  |      |    _,-'"""`-.---------------rtle
+filescan_00.4:squi             \ `.     .          /      |  '      |  ,'          `.---------------rtle
+filescan_00.4:squi              \  v.__  .        '       .   \    /| /              \---------------rtle
+filescan_00.4:squi               \/    `""\"""""""`.       \   \  /.''                |---------------rtle
+filescan_00.4:squi                `        .        `._ ___,j.  `/ .-       ,---.     |---------------rtle
+filescan_00.4:squi                ,`-.      \         ."     `.  |/        j     `    |---------------rtle
+filescan_00.4:squi               /    `.     \       /         \ /         |     /    j---------------rtle
+filescan_00.4:squi              |       `-.   7-.._ .          |"          '         /---------------rtle
+filescan_00.4:squi              |          `./_    `|          |            .     _,'---------------rtle
+filescan_00.4:squi              `.           / `----|          |-............`---'---------------rtle
+filescan_00.4:squi                \          \      |          |---------------rtle
+filescan_00.4:squi               ,'           )     `.         |---------------rtle
+filescan_00.4:squi                7____,,..--'      /          |---------------rtle
+filescan_00.4:squi                                  `---.__,--.'zcw---------------rtle
+filescan_00.4:squi---------------rtle

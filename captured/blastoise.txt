@@ -1,7 +1,36 @@
-grep -r -p 'to' filescan_00.1   filescan_00.2   filescan_00.3   filescan_00.4 
-
-
-
-rep -l "to" * 
-forest ->  filescan_00.1
-
+filescan_00.1:blas                       _---------------toise
+filescan_00.1:blas            _,..-"""--' `,.-".---------------toise
+filescan_00.1:blas          ,'      __.. --',  |---------------toise
+filescan_00.1:blas        _/   _.-"' |    .' | |       ____---------------toise
+filescan_00.1:blas  ,.-""'    `-"+.._|     `.' | `-..,',--.`.---------------toise
+filescan_00.1:blas |   ,.                      '    j 7    l \__---------------toise
+filescan_00.1:blas |.-'                            /| |    j||  .---------------toise
+filescan_00.1:blas `.                   |         / L`.`""','|\  \---------------toise
+filescan_00.1:blas   `.,----..._       ,'`"'-.  ,'   \ `""'  | |  l---------------toise
+filescan_00.1:blas     Y        `-----'       v'    ,'`,.__..' |   .---------------toise
+filescan_00.1:blas      `.                   /     /   /     `.|   |---------------toise
+filescan_00.1:blas        `.                /     l   j       ,^.  |L---------------toise
+filescan_00.1:blas          `._            L       +. |._   .' \|  | \---------------toise
+filescan_00.1:blas            .`--...__,..-'""'-._  l L  """    |  |  \---------------toise
+filescan_00.1:blas          .'  ,`-......L_       \  \ \     _.'  ,'.  l---------------toise
+filescan_00.1:blas       ,-"`. / ,-.---.'  `.      \  L..--"'  _.-^.|   l---------------toise
+filescan_00.1:blas .-"".'"`.  Y  `._'   '    `.     | | _,.--'"     |   |---------------toise
+filescan_00.1:blas  `._'   |  |,-'|      l     `.   | |"..          |   l---------------toise
+filescan_00.1:blas  ,'.    |  |`._'      |      `.  | |_,...---"""""`    L---------------toise
+filescan_00.1:blas /   |   j _|-' `.     L       | j ,|              |   |---------------toise
+filescan_00.1:blas`--,"._,-+' /`---^..../._____,.L',' `.             |\  |---------------toise
+filescan_00.1:blas   |,'      L                   |     `-.          | \j---------------toise
+filescan_00.1:blas            .                    \       `,        |  |---------------toise
+filescan_00.1:blas             \                __`.Y._      -.     j   |---------------toise
+filescan_00.1:blas              \           _.,'       `._     \    |  j---------------toise
+filescan_00.1:blas              ,-"`-----""""'           |`.    \  7   |---------------toise
+filescan_00.1:blas             /  `.        '            |  \    \ /   |---------------toise
+filescan_00.1:blas            |     `      /             |   \    Y    |---------------toise
+filescan_00.1:blas            |      \    .             ,'    |   L_.-')---------------toise
+filescan_00.1:blas             L      `.  |            /      ]     _.-^._---------------toise
+filescan_00.1:blas              \   ,'  `-7         ,-'      / |  ,'      `-._---------------toise
+filescan_00.1:blas             _,`._       `.   _,-'        ,',^.-            `.---------------toise
+filescan_00.1:blas          ,-'     v....  _.`"',          _:'--....._______,.-'---------------toise
+filescan_00.1:blas        ._______./     /',,-'"'`'--.  ,-'  `.---------------toise
+filescan_00.1:blas                 """""`.,'         _\`----...' zcw---------------toise
+filescan_00.1:blas                        --------""'---------------toise

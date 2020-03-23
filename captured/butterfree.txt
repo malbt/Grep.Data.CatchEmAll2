@@ -1,6 +1,39 @@
-grep -r -p 'tt' filescan_00.1   filescan_00.2   filescan_00.3   filescan_00.4
-
-grep -l "tt" *
-
-foreat-> filescan_00.1
+filescan_00.1:butt       ,-.                                            ___.._---------------erfree
+filescan_00.1:butt _     `. `.                                    _,-"""      ',._---------------erfree
+filescan_00.1:butt`.`.      `.\                                _,'         _..-'  `.---------------erfree
+filescan_00.1:butt  `._\       `.                            ,'         _,'_,.-'-.  \---------------erfree
+filescan_00.1:butt      `.       `.                        ,'        ,-',-"       \  .---------------erfree
+filescan_00.1:butt        `.       \                      /  _,----"',-'           L  L---------------erfree
+filescan_00.1:butt          `.      \                   ,' _.--"-.  [              |  |---------------erfree
+filescan_00.1:butt            `.     .                 / ,'       | |     _..---../   |---------------erfree
+filescan_00.1:butt              .     L               / /         | j ,.-'        `   |---------------erfree
+filescan_00.1:butt               \    .              ' /          j ,'             |  |---------------erfree
+filescan_00.1:butt                \    .            ' /          ' /               |  |---------------erfree
+filescan_00.1:butt                 \   l           / /          /,'                j  '---------------erfree
+filescan_00.1:butt                  L__L._        / /          +'      __,........'  j---------------erfree
+filescan_00.1:butt                ,'   '  "`.    / /         .' _,.--'"           \  |---------------erfree
+filescan_00.1:butt               /,""-.      `. ' '        _/.-'                  | F---------------erfree
+filescan_00.1:butt              /|   / l       . /       ,'                       | |---------------erfree
+filescan_00.1:butt             | |  /  |       ]'      ,'                         | |---------------erfree
+filescan_00.1:butt            ,._\"'   |       |     ,'-'"""""""""""""'----.._    / |---------------erfree
+filescan_00.1:butt            |  \`.._,'       F  _,'                         `--'  |---------------erfree
+filescan_00.1:butt            `..'           _/ ,:_____                         L   |---------------erfree
+filescan_00.1:butt              `..          .-'       `'--.._                   | j---------------erfree
+filescan_00.1:butt            _,. /,---.       \              `--..              | |---------------erfree
+filescan_00.1:butt           F  <j-.'   `       ._                 `"-._        j  '---------------erfree
+filescan_00.1:butt           |  <|`,.    |       `L._                   `..   _, ,'---------------erfree
+filescan_00.1:butt           `..<|`.___,'        |.  `-.                   Y"' _.---------------erfree
+filescan_00.1:butt              `L               | `.   `-.._____________,',.-'---------------erfree
+filescan_00.1:butt                `.            .Y   \      `"".""""".  ."'---------------erfree
+filescan_00.1:butt                  `.        ,' |\   `.        `+-._ \  |---------------erfree
+filescan_00.1:butt                    `,--. -'   | .    `.       `   `.| |---------------erfree
+filescan_00.1:butt                    /    //    |  \    ``-..___/     | |---------------erfree
+filescan_00.1:butt                   j    .l     |   .    F   \   `   F  |---------------erfree
+filescan_00.1:butt                   |    ||     |    `   `    .   ` ,  /---------------erfree
+filescan_00.1:butt                   |    ||    F      `-.|     . _,' _'---------------erfree
+filescan_00.1:butt                   |   / |    |       `._`-----'  ,'---------------erfree
+filescan_00.1:butt                   |  /  |   /           `-------'---------------erfree
+filescan_00.1:butt                   l /   \_,'---------------erfree
+filescan_00.1:butt                    " zcw---------------erfree
+filescan_00.1:butt---------------erfree
 

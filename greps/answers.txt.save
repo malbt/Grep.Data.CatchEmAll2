@@ -1,0 +1,56 @@
+# Part 1
+### a) 
+
+
+
+
+### b)
+
+
+
+### c) inside  the captured dir 
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Part 2
+### a)
+
+
+
+
+
+
+### b)couldn't figure out how to filter the top 3 yet
+
+but was able to find out the number of lines-> grep -r -c "  " file.txt 
+beedrill   40
+blastoise 38
+bulbasaur 30
+butterfree   38
+charizard  40
+charmander 36
+charmeleon 37
+ivysaur 33
+jigglypuff  34
+meowth 33
+pikachu   40 
+psyduck 37
+squirtle 34 
+venusaur 32
+wartortle 37
+ 
+
+
+
+
+

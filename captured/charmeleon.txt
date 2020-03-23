@@ -1,6 +1,38 @@
-grep -r -p 'mel' filescan_00.1 filescan_00.2    filescan_00.3   filescan_00.4
 
-
-
-grep -l "meleon" *
-forest -> filescan_00.2
+filescan_00.2:char                      ,-'`\---------------meleon
+filescan_00.2:char                  _,"'    j---------------meleon
+filescan_00.2:char           __....+       /               .---------------meleon
+filescan_00.2:char       ,-'"             /               ; `-._.'.---------------meleon
+filescan_00.2:char      /                (              ,'       .'---------------meleon
+filescan_00.2:char     |            _.    \             \   ---._ `-.---------------meleon
+filescan_00.2:char     ,|    ,   _.'  Y    \             `- ,'   \   `.`.---------------meleon
+filescan_00.2:char     l'    \ ,'._,\ `.    .              /       ,--. l---------------meleon
+filescan_00.2:char  .,-        `._  |  |    |              \       _   l .---------------meleon
+filescan_00.2:char /              `"--'    /              .'       ``. |  )---------------meleon
+filescan_00.2:char.\    ,                 |                .        \ `. '---------------meleon
+filescan_00.2:char`.                .     |                '._  __   ;. \'---------------meleon
+filescan_00.2:char  `-..--------...'       \                  `'  `-"'.  \---------------meleon
+filescan_00.2:char      `......___          `._                        |  \---------------meleon
+filescan_00.2:char               /`            `..                     |   .---------------meleon
+filescan_00.2:char              /|                `-.                  |    L---------------meleon
+filescan_00.2:char             / |               \   `._               .    |---------------meleon
+filescan_00.2:char           ,'  |,-"-.   .       .     `.            /     |---------------meleon
+filescan_00.2:char         ,'    |     '   \      |       `.         /      |---------------meleon
+filescan_00.2:char       ,'     /|       \  .     |         .       /       |---------------meleon
+filescan_00.2:char     ,'      / |        \  .    +          \    ,'       .'---------------meleon
+filescan_00.2:char    .       .  |         \ |     \          \_,'        / j---------------meleon
+filescan_00.2:char    |       |  L          `|      .          `        ,' '---------------meleon
+filescan_00.2:char    |    _. |   \          /      |           .     .' ,'---------------meleon
+filescan_00.2:char    |   /  `|    \        .       |  /        |   ,' .'---------------meleon
+filescan_00.2:char    |   ,-..\     -.     ,        | /         |,.' ,'---------------meleon
+filescan_00.2:char    `. |___,`    /  `.   /`.       '          |  .'---------------meleon
+filescan_00.2:char      '-`-'     j     ` /."7-..../|          ,`-'---------------meleon
+filescan_00.2:char                |        .'  / _/_|          .---------------meleon
+filescan_00.2:char                `,       `"'/"'    \          `.---------------meleon
+filescan_00.2:char                  `,       '.       `.         |---------------meleon
+filescan_00.2:char             __,.-'         `.        \'       |---------------meleon
+filescan_00.2:char            /_,-'\          ,'        |        _.---------------meleon
+filescan_00.2:char             |___.---.   ,-'        .-':,-"`\,' .---------------meleon
+filescan_00.2:char                  L,.--"'           '-' |  ,' `-.\---------------meleon
+filescan_00.2:char                                        `.' zcw---------------meleon
+filescan_00.2:char---------------meleon
